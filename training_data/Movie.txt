@@ -1,0 +1,10 @@
+Show me Leonardo DiCaprio Movies
+'The Revenant' ; 'The Wolf of Wall Street' ; 'Before the Flood' ; 'The Great Gatsby' ; 'Inception' ; 'Revolutionary Road' ; 'Titanic' ; 'The Revenant' ; 'The Wolf of Wall Street' ; 'Before the Flood' ; 'The Great Gatsby' ; 'Inception' ; 'Revolutionary Road' ; 'Shutter Island' ; 'Catch Me If You Can' ; 'what's eating gilbert grape'.
+Johnny Depp Starring Movies
+'Pirates of the Caribbean' ; 'Fantastic Beasts' ; 'The Professor' ; 'Charlie and the Chocolate Factory' ; 'Secret Window' ; 'Murder on the Orient Express' ; 'Transcendence' ; 'Alice in Wonderland'.
+Ayushmann Khurrana Movies
+'Shubh Mangal Saavdhan' ; 'Andhadhun' ; 'Bala' ; 'Dream Girl' ; 'Badhaai Ho' ; 'Article 15' ; 'Bareilly Ki Barfi' ; 'Vicky Donor'; 'An Action Hero'
+Rajkummar Rao Movies
+'Stree' ; 'Bareilly Ki Barfi' ; 'Trapped' ; 'Kai Po Che!' ; 'Shaadi Mein Zaroor Aana' ; 'Chhalaang' ; 'Omerta' ; 'Citylights' ; 'Judgementall Hai Kya' ; 'Badhaai ho'
+RomCom Movies.
+The last Summer ; Let it snow ; Last christmas ; The half of it ; The Perks of being a wallflower ; When we first met ; Bareilly ki barfi ; About time.
